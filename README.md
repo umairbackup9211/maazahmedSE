@@ -7,7 +7,7 @@
 I'm a passionate **Backend Developer** and **JavaScript Enthusiast** with a focus on creating efficient, scalable, and reliable systems. With a solid foundation in NodeJs, Express Js, MongoDB, SQL and MySQL, I'm always exploring new tools and technologies to improve my workflow and deliver the best solutions.
 
 - 💬 Ask me about **Backend Development, JavaScript, or anything tech-related**
-- 📫 How to reach me: [maazahmed.tech@gmail.com](maazahmed.tech@gmail.com)
+- 📫 How to reach me: [maazahmed.tech@gmail.com](mailto:maazahmed.tech@gmail.com)
 
 ## 🛠️ Tech Stack
 
